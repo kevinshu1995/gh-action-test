@@ -1,0 +1,26 @@
+{
+    "name": "gh-action-test",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "index.js",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "mustache": "^4.2.0",
+        "node-fetch": "^2.6.6"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kevinshu1995/gh-action-test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kevinshu1995/gh-action-test/issues"
+    },
+    "homepage": "https://github.com/kevinshu1995/gh-action-test#readme"
+}

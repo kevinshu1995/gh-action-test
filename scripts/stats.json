@@ -1,0 +1,14 @@
+{
+    "stats": [
+        {
+            "name": "Kevin",
+            "pullRequestComment": 5,
+            "score": 5
+        },
+        {
+            "name": "Husky",
+            "pullRequestComment": 6,
+            "score": 30
+        }
+    ]
+}
